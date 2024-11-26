@@ -1,5 +1,5 @@
 # 🪄 Revelio: Unveiling the Emotional Depth and Evolution of Harry Potter  
-![Project Banner]([https://via.placeholder.com/1200x400.png?text=Add+a+cool+banner+here](https://wallpaperbat.com/img/738164-wallpaper-people-the-crowd-station-train-cell-the-platform-truck-harry-potter-owls-illustration-wizards-suitcases-the-hogwarts-express-jim-kay-image-for-desktop-section-fantastika.jpg))
+![Project Banner]([https://wallpaperbat.com/img/738164-wallpaper-people-the-crowd-station-train-cell-the-platform-truck-harry-potter-owls-illustration-wizards-suitcases-the-hogwarts-express-jim-kay-image-for-desktop-section-fantastika.jpg])
 
 ## ✨ Overview  
 This project dives into the magical world of J.K. Rowling’s *Harry Potter* series by analyzing the **emotions**, **sentiments**, and **spells** across all seven books. Using Python and powerful text analysis techniques, we explore how the series evolves from lighthearted to dark, portraying themes of courage, fear, and love.  
